@@ -6,34 +6,34 @@
 {
   "credentials": [
     {
-      "acl": [],
-      "created_at": "2025-08-10T10:07:58Z",
-      "description": "development cred for alan@example.com",
-      "id": "cr_315ikftij0cIWUPw44bXfxnvE8l",
-      "owner_id": "usr_315igZGx6tMdhKuPUavdBSV8Y1U",
-      "token": null,
-      "uri": "https://api.ngrok.com/credentials/cr_315ikftij0cIWUPw44bXfxnvE8l"
-    },
-    {
       "acl": [
         "bind:1.tcp.ngrok.io:20002",
         "bind:132.devices.company.com"
       ],
-      "created_at": "2025-08-10T10:07:58Z",
+      "created_at": "2025-08-29T10:07:53Z",
       "description": "for device #132",
-      "id": "cr_315ikdpvBp10FwnJUFsmhGhV9ZQ",
-      "owner_id": "usr_315igZGx6tMdhKuPUavdBSV8Y1U",
+      "id": "cr_31xO5WbH7XBJNDUWXXo3WeuBRCw",
+      "owner_id": "usr_31xO19HNjFNspBByhRAhWgJBHJz",
       "token": null,
-      "uri": "https://api.ngrok.com/credentials/cr_315ikdpvBp10FwnJUFsmhGhV9ZQ"
+      "uri": "https://api.ngrok.com/credentials/cr_31xO5WbH7XBJNDUWXXo3WeuBRCw"
     },
     {
       "acl": [],
-      "created_at": "2025-08-10T10:07:25Z",
-      "description": "credential for \"api-examples-c95283a7a958ee3b@example.com\"",
-      "id": "cr_315igUpxLoTRseZHWNMMEdc6jQv",
-      "owner_id": "usr_315igZGx6tMdhKuPUavdBSV8Y1U",
+      "created_at": "2025-08-29T10:07:53Z",
+      "description": "development cred for alan@example.com",
+      "id": "cr_31xO5VXfIOoBHaHHMMQEFLUmukS",
+      "owner_id": "usr_31xO19HNjFNspBByhRAhWgJBHJz",
       "token": null,
-      "uri": "https://api.ngrok.com/credentials/cr_315igUpxLoTRseZHWNMMEdc6jQv"
+      "uri": "https://api.ngrok.com/credentials/cr_31xO5VXfIOoBHaHHMMQEFLUmukS"
+    },
+    {
+      "acl": [],
+      "created_at": "2025-08-29T10:07:19Z",
+      "description": "credential for \"api-examples-eb7e2e943a701940@example.com\"",
+      "id": "cr_31xO1BI4cBR6YzD9lwF2T7HRgwA",
+      "owner_id": "usr_31xO19HNjFNspBByhRAhWgJBHJz",
+      "token": null,
+      "uri": "https://api.ngrok.com/credentials/cr_31xO1BI4cBR6YzD9lwF2T7HRgwA"
     }
   ],
   "next_page_uri": null,
